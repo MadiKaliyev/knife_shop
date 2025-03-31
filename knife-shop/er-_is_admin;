@@ -1,0 +1,12 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#5545
+    [34mid[39m: [35m2[39m,
+    [34mname[39m: "[32madmin[39m",
+    [34memail[39m: "[32m1910797@mail.ru[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$12$mwKB9ZNEc9JAl/IEJYdMVOyfEwq3DfoI9OIh4v5BXypLb8zBuFWBu[39m",
+    [34mis_admin[39m: [35m1[39m,
+    #[33mremember_token[39m: "[32mJoyS7HjvzNHjNE47JtzftXsWTzr8E2xsfrGCIZhp9JR8CyRMei1KR2EKRtfY[39m",
+    [34mcreated_at[39m: "[32m2025-03-29 15:37:58[39m",
+    [34mupdated_at[39m: "[32m2025-03-29 15:47:46[39m",
+  }
+
